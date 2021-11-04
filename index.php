@@ -89,9 +89,10 @@
             <td class="date"><a href="https://codinghelp.site" target="_blank" title="codinghelp[]">https://codinghelp.site</a></td>
         </tr>
     </table>
-    <p class="title"><a href="https://codinghelp.site/" target="_blank">Website</a>, <a href="https://reddit.com/r/CodingHelp" target="_blank">Subreddit with over 41,000 members</a>, <a href="https://codinghelp.site/discord" target="_blank">Discord Server with over 1,800 members</a>.</p>
+    <p class="title"><a href="https://codinghelp.site/" target="_blank">Website</a>, Discord Bot <a href="https://reddit.com/r/CodingHelp" target="_blank">Subreddit with over 41,000 members</a>, <a href="https://codinghelp.site/discord" target="_blank">Discord Server with over 1,800 members</a>.</p>
     <ul>
         <li>I am the owner and founder of CodingHelp, a community dedicated to helping new people learn how to code.</li>
+        <li>The Discord Bot is used to help facilitate helping and keeping the community in order. You can view the code of the bot on the <a href="https://github.com/DudeThatsErin/codinghelp-bot" target="_blank">GitHub</a> page.</li>
     </ul><br /><br />
 
     <a href="https://erinskidds.com/img/bot.jpg" class="img" data-lightbox="bot" data-title="No image because this is a discord bot, if you want to learn more, you can go here: https://erinskidds.com/sakura.php"><img id="side" src="https://erinskidds.com/img/bot.jpg" alt="" /></a>
@@ -104,7 +105,7 @@
     <p class="title">Discord Bot that I created and shared for anyone to use.</p>
     <ul>
         <li>This development took me almost two years to do. It is running <a href="https://discord.js.org/#/" target="_blank" title="Discord.js - a Node.js Module">Discord.js</a> which is a <a href="https://nodejs.org/" target="_blank" title="Node.js - a JavaScript runtime built on Chrome's V8 JavaScript Engine">Node.js</a> module that connects to <a href="https://discord.com" target="_blank" title="Discord - A social media platform.">Discord</a> and allows you to create automated robots ("bots") for the platform.</li>
-        <li>This bot has a Challenge System, Suggestions System, Thanks System, Points System, Moderation System, and some just fun random commands. If you want to see everything it can do and see what each of these system are, you can read more <a href="https://erinskidds.com/sakura.php" target="_blank" title="Sakura Moon - Discord Bot">here</a>.</li>
+        <li>This bot has a Challenge System, Suggestions System, Thanks System, Points System, Moderation System, and some just fun random commands. If you want to see everything it can do and see what each of these system are, you can read more <a href="https://erinskidds.com/sakura.php" target="_blank" title="Sakura Moon - Discord Bot">here</a>. You can see how it is coded on it's <a href="https://github.com/DudeThatsErin/sakura-moon" target="_blank">GitHub</a> page.</li>
     </ul>
 
     <a href="https://erinskidds.com/img/tbs.png" class="img" data-lightbox="tbs" data-title="The Tech Blogger's Space located at https://techblogger.space"><img id="side" src="https://erinskidds.com/img/tbs.png" alt="" /></a>
