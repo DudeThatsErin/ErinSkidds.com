@@ -9,6 +9,7 @@
     You can manually send Erin an email at erin.skidds@gmail.com.<br />
     Discord Username: DudeThatsErin#8061<br />
     Twitter Username: <a href="https://twitter.com/DudeThatsErin" target="_blank" title="Visit my Twitter">DudeThatsErin</a><br />
+    LinkedIn: <a href="https://www.linkedin.com/in/erinskidds/" target="_blank" title="Follow me on LInkedIn">Erin Skidds</a><br />
 </blockquote>
 
 <img src="https://erinskidds.com/img/h1side.png" alt="arrow" id="projects">
