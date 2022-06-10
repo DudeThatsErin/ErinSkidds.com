@@ -1,3 +1,18 @@
-@import 'swiper/scss';
-@import 'swiper/scss/navigation';
-@import 'swiper/scss/pagination';
+@import url('../../node_modules/swiper/swiper-bundle.css');
+
+.swipper-wrapper {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  }
+
+  .my-swiper {
+  width: 100%;
+  height: 100%;
+  }
+
+  .swiper-img {
+  width: 100%;
+  height: 100%;
+  object-fit: scale-down;
+  }

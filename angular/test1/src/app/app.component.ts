@@ -1,9 +1,7 @@
-import { Component } from '@angular/core';
-// import Swiper core and required modules
-import SwiperCore, { Virtual } from 'swiper';
+import { Component, ViewChild } from '@angular/core';
+import { Swiper, Autoplay, Navigation } from 'swiper';
 
-// install Swiper modules
-SwiperCore.use([Virtual]);
+Swiper.use([Autoplay, Navigation]);
 
 @Component({
   selector: 'app-root',
@@ -13,9 +11,4 @@ SwiperCore.use([Virtual]);
 
 export class AppComponent {
   title = 'Erin Skidds';
-
-  // Create array with 1000 slides
-  slides = Array.from({ length: 1000 }).map(
-    (el, index) => `Slide ${index + 1}`
-  );
 }

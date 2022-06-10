@@ -1,13 +1,12 @@
 <h1>Erin Skidds Test</h1>
 
-<swiper [slidesPerView]="1" [spaceBetween]="50" [virtual]="true">
-  <ng-container *ngFor="let slide of slides; index as i">
-    <ng-template swiperSlide>Slide {{ slide }}</ng-template>
-  </ng-container>
-<!--
-<ng-template swiperSlide><img src="../assets/images.jpg"></ng-template>
-<ng-template swiperSlide><img src="../assets/lostinrandomofficiallaunchtrailerblogroll2-1631304759599.jpg"></ng-template>
-<ng-template swiperSlide><img src="../assets/random-questions.jpg"></ng-template>
-<ng-template swiperSlide><img src="../assets/random.jpg"></ng-template>
--->
-</swiper>
+<div class="swipper-wrapper">
+
+  <swiper [navigation]="true" [autoplay]="{
+  delay: 2500,
+  disableOnInteraction: false
+  }" [speed]="2000" [loop]="true" class="my-swiper">
+  <ng-template swiperSlide><img src="../assets/random.jpg" alt="test" class="swiper-img" /></ng-template>
+  <ng-template swiperSlide><img src="../assets/random-questions.jpg" alt="test" class="swiper-img" /></ng-template>
+  </swiper>
+  </div>
